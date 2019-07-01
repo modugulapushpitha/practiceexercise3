@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21620282-0849-4990-a384-d343aa9ea5fd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/AddTwoMatrixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/StudentMarksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/RemoveVowelsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/DisplayChessBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/DisplayChessBoardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/ConsecutiveNumCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/NewException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/ConsecutiveNumCheckTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/FirstLastDayofaWeek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/AddTwoMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/DisplayChessBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/RemoveVowels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/ConsecutiveNumCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/ConsecutiveNumCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/DisplayChessBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/FirstLastDayofaWeek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/NewException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/GenerateExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/RemoveVowelsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/AddTwoMatrixTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1371" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/hamcrest-all-1.3" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.exercise3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AddTwoMatrixTest.testAdditionFailure">
+    <configuration name="NewException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise3.NewException" />
+      <module name="exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoMatrixTest.testAdditionFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise3.AddTwoMatrixTest" />
+      <option name="METHOD_NAME" value="testAdditionFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveVowelsTest.testRemoveVowelsGivenSingleString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise3.RemoveVowelsTest" />
+      <option name="METHOD_NAME" value="testRemoveVowelsGivenSingleString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMarksTest.testGivenStudentInfoFailureMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise3.StudentMarksTest" />
+      <option name="METHOD_NAME" value="testGivenStudentInfoFailureMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMarksTest.testGivenStudentInfoReturnSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise3.StudentMarksTest" />
+      <option name="METHOD_NAME" value="testGivenStudentInfoReturnSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddTwoMatrixTest.testAdditionFailure" />
+        <item itemvalue="JUnit.RemoveVowelsTest.testRemoveVowelsGivenSingleString" />
+        <item itemvalue="JUnit.StudentMarksTest.testGivenStudentInfoFailureMsg" />
+        <item itemvalue="JUnit.StudentMarksTest.testGivenStudentInfoReturnSuccess" />
+        <item itemvalue="Application.NewException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21620282-0849-4990-a384-d343aa9ea5fd" name="Default Changelist" comment="" />
+      <created>1561735832313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561735832313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConsecutiveNumCheckTest_testInteger - 2019.07.01 at 11h 53m 54s.xml">
+      <configuration name="ConsecutiveNumCheckTest.testInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayChessBoardTest_testGivenInput - 2019.07.01 at 12h 00m 25s.xml">
+      <configuration name="DisplayChessBoardTest.testGivenInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayChessBoardTest_testFailureInput - 2019.07.01 at 12h 00m 55s.xml">
+      <configuration name="DisplayChessBoardTest.testFailureInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayChessBoardTest_testFailureInput - 2019.07.01 at 12h 09m 23s.xml">
+      <configuration name="DisplayChessBoardTest.testFailureInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisplayChessBoardTest_testZeroInput - 2019.07.01 at 12h 11m 21s.xml">
+      <configuration name="DisplayChessBoardTest.testZeroInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentMarksTest_testGivenStudentInfoReturnSuccess - 2019.07.01 at 16h 37m 01s.xml">
+      <configuration name="StudentMarksTest.testGivenStudentInfoReturnSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentMarksTest_testGivenStudentInfoReturnSuccess - 2019.07.01 at 16h 37m 27s.xml">
+      <configuration name="StudentMarksTest.testGivenStudentInfoReturnSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentMarksTest_testGivenStudentInfoFailureMsg - 2019.07.01 at 16h 38m 30s.xml">
+      <configuration name="StudentMarksTest.testGivenStudentInfoFailureMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveVowelsTest_testRemoveVowelsGivenSingleString - 2019.07.01 at 16h 39m 32s.xml">
+      <configuration name="RemoveVowelsTest.testRemoveVowelsGivenSingleString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTwoMatrixTest_testAdditionFailure - 2019.07.01 at 16h 42m 14s.xml">
+      <configuration name="AddTwoMatrixTest.testAdditionFailure" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="133" y="47" width="1371" height="815" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26264152" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35610464" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/AddTwoMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/DisplayChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/FirstLastDayofaWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/ConsecutiveNumCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/GenerateExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/NewException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise3/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/StudentMarksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/RemoveVowelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/AddTwoMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/ConsecutiveNumCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise3/DisplayChessBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-all-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
